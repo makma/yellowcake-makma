@@ -2,8 +2,9 @@
 template: HomePage
 slug: ""
 title: Firex Slovakia s.r.o
-featuredImage: https://ucarecdn.com/411b0f7a-0340-43c8-8bf6-853011d2092f/-/crop/8288x4683/32,399/-/preview/
-subtitle: Služby v oblasti požiarnej ochrany
+featuredImage: https://ucarecdn.com/62c85e16-3dd5-4efa-9875-475094c7537e/
+subtitle: Kompletný servis služieb v oblasti Ochrany pred požiarmi, Bezpečnosti
+  a ochrany zdravia pri práci, Ochrany zdravia ľudí - hygieny a Environmentu
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
